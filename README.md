@@ -1,2 +1,14 @@
-# Mconnect-Advance-Matrix-Rate-Shipping-Extension-for-Magento-2
-Mconnect Advance Matrix Rate Shipping Extension for Magento 2 facilitates you to charge shipping rate/multiple table rates based on customers’ country, state/province, city, zip/postal code, or weight of product, order total, items in the cart and many other options. 
+<p>For providing a great shopping experience on your eCommerce store, the shipping part of it plays a vital role. Many customers wish to receive their package as soon as possible. But every order is different in size and its destination differs massively. So, offering one size fits all type of solution to all customers could turn your business in losses. Therefore, keep in mind that offering multiple shipping methods can be the most effective and important part of your order fulfillment and shipping processes. As per Pitney Bowes global eCommerce study, 56% of the US consumers felt let down by the brands in shipping and delivery of the items. So, to make your customers happy, you may have to offer them various shipping methods that satisfy their needs as well as do not affect your eCommerce business.</p>
+<p><a href="https://www.mconnectmedia.com/advance-matrix-rate-shipping-magento-2.html"><strong>Mconnect Advance Matrix Rate Shipping Extension for Magento</strong></a> 2 facilitates the admin of the store to configure the shipping methods based on the dimensions, destination, price, size, the quantity of the product, and other things as well. It is one of the flexible table rate solutions one can integrate with their Magento 2 store. The extension is able to automatically calculate the charge for shipping and add it to their order total during checkout. A CSV file containing an unlimited number of shipping methods based on table rate can be also uploaded from the backend, which eases your work. The extension provides the option to charge for the shipping handling fee as a fixed or percentage amount for each order. The admin can set the title of the shipping method, enable only certain countries, and allow only certain eligible products. Also, the admin can create table rates based on weight vs. destination, order total vs. destination, number of items vs. destination, etc.</p>
+<p><strong>Features of Mconnect Advance Matrix Rate Shipping Extension for Magento 2:</strong></p>
+<ul>
+<li>With the use of the Matrix rate, you can offer various customized shipping options to your customers.</li>
+<li>Option to set your own custom title for shipping method and calculation condition.</li>
+<li>The admin has an option to upload a CSV file with an unlimited table rate option.</li>
+<li>Shipping cost support for virtual or downloadable products.</li>
+<li>Shipping handling fee charges can be levied on a fixed or percentage manner.</li>
+<li>Enable the extension for specific countries you deal in.</li>
+<li>Option to hide unavailable methods from the checkout page.</li>
+<li>The extension displays various methods on a different location for order fulfillment.</li>
+</ul>
+<p>For more such <a href="https://www.mconnectmedia.com/magento-2-extensions"><strong>Magento 2 Extensions</strong></a> visit <a href="https://www.mconnectmedia.com"><strong>Mconnectmedia.com</strong></a></p>
